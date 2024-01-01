@@ -14,7 +14,7 @@ F2=xy’z+x’y’z+w’xy+wx’y+wxy
 
 
 ## Theory
- 
+ A combinational circuit is in which the output depends on the present combination of inputs.Conmbinational circuits are made up of logic gates.The output of each logic gate is determined by its logic function. Combinational circuits can be made using various logic gates ,such as AND gates ,OR gates, and NOT gates.
 
 ## Procedure
 
